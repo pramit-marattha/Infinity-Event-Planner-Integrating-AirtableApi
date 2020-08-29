@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Event manager and planner using React, Airtable, and styled-components.Airtable as the Event management dashboard. Then connecting React app using the Airtable API. And styling the app using styled-components including global styles.
+
+---
+## It's Live 🎉 Visit here ==>https://infinity-event-planner.netlify.app/
+---
+![event-planner](https://user-images.githubusercontent.com/37651620/91645105-1f3ce300-ea62-11ea-9397-90fccc529384.png)
+
+---
 
 ## Available Scripts
 
